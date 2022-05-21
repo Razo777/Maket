@@ -1,0 +1,51 @@
+.slidebar{
+    width: 100%;
+    height: 600px;
+}
+.slides{
+    height: 100%;
+}
+.swiper {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      background: #F9F6F1;
+}
+.stocks{
+    align-items: center;
+    line-height: 90px;    
+}
+h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+h1{
+    font-size: 55px;
+}
+.btn{
+    width: 35%;
+    height: 45px;
+    background: #D7B399;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #D7B399;
+}
+.footers{
+    width: 100%;
+    height: 235px;
+    background: black;
+    color: white;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 50px;
+    justify-content: center;
+}
+h3{
+    font-size: 30px;
+}
+span{
+    font-size: 21px;
+}
