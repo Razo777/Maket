@@ -1,12 +1,10 @@
 import React from 'react'
-import Menu from './Nav'
+import Menu from './Nav/Menu'
 
 export default function Header() {
     return (
-        <header>
-            <section className='container'>
-                <Menu />
-            </section>
+        <header>           
+                <Menu/>           
         </header>
     )
 }
